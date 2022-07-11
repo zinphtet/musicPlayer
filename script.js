@@ -16,12 +16,6 @@ const music = document.querySelector('audio');
 
 const allSongs = [
 	{
-		title: 'Pyay Theint Lite',
-		singer: 'Wine Wine',
-		src: 'WineWine_1.mp3',
-		imgSrc: 'jacinto-1.jpg',
-	},
-	{
 		title: 'Si - - -',
 		singer: 'Wine Wine',
 		src: 'WineWine_2.mp3',
@@ -37,6 +31,18 @@ const allSongs = [
 		title: 'Tut Hnine me yatanar',
 		singer: 'Htoo Eain Thin',
 		src: 'HtooEainThin_1.mp3',
+		imgSrc: 'metric-1.jpg',
+	},
+	{
+		title: 'Ta Nay Tot',
+		singer: 'G Latt',
+		src: 'GLatt_1.mp3',
+		imgSrc: 'jacinto-1.jpg',
+	},
+	{
+		title: 'Shin Than Nay Ml',
+		singer: 'Nyi Min Khanig',
+		src: 'NyiMinKhaing_1.mp3',
 		imgSrc: 'metric-1.jpg',
 	},
 ];
